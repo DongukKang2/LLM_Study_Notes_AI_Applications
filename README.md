@@ -13,17 +13,6 @@
 - **파인튜닝 실험**: 간단한 파인튜닝 실습과 결과 분석
 - **프로젝트 실습**: 책의 예제를 기반으로 직접 구현한 미니 프로젝트
 
-## 📂 저장소 구조
-복사LLM_Study_Notes_AI_Applications/
-├── code/
-│   ├── basic_examples/
-├── notebooks/
-│   ├── 01_openai_api_basics.ipynb
-├── resources/
-│   ├── useful_links.md
-│   └── datasets/
-├── requirements.txt
-└── README.md
 
 ## ⚙️ 실행 환경 설정
 
